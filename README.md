@@ -23,6 +23,9 @@ it consists of 6 randomly generated balls bouncing around, your mission is to ke
 
 # Screanshots
 
+![](https://github.com/YosfNaciri/Bouncy/blob/master/gameBouncy/screans/1.PNG)
+
+![](https://github.com/YosfNaciri/Bouncy/blob/master/gameBouncy/screans/2.PNG)
 
 # What to come!
 
